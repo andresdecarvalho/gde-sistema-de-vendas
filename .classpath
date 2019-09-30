@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/br/com/gde/dal/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="src/br/com/gde/telas/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/br/com/gde/telas/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="src/br/com/gde/telas/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="src/br/com/gde/telas/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
