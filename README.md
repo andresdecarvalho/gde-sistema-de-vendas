@@ -1,3 +1,9 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/andresdecarvalho/gde-sistema-de-vendas)
+![GitHub](https://img.shields.io/github/license/andresdecarvalho/gde-sistema-de-vendas)
+![GitHub forks](https://img.shields.io/github/forks/andresdecarvalho/gde-sistema-de-vendas)
+![GitHub stars](https://img.shields.io/github/stars/andresdecarvalho/gde-sistema-de-vendas?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/andresdecarvalho/gde-sistema-de-vendas?style=social)
+
 # GDE - Gerenciador de postos de combustíveis 
 <h2>Sistema de Vendas para Postos de Combustível em java com interface gráfica</h2>
 <h3>PDV - Ponto de vendas</h3>
